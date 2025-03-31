@@ -381,5 +381,6 @@ For more such tutorials and free project codes, visit:
 👉 [CodeWithCurious.com](https://codewithcurious.com/)  
 📺 [YouTube](https://www.youtube.com/channel/UCn7-f4-8R9-NnBxtZ5b8EVw)  
 📷 [Instagram](https://www.instagram.com/curious_.programmer/)
-#   h t m l - c s s - j s - p r o j e c t s  
+#   h t m l - c s s - j s - p r o j e c t s 
+ 
  
